@@ -43,6 +43,7 @@ const StyledHeader = styled.header`
     @media (max-width: 1300px) {
       grid-template-columns: 1fr;
       justify-content: center;
+      overflow: hidden;
     }
   }
   .sub-bar {
